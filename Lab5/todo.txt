@@ -1,0 +1,21 @@
+1. Benchmark (porównanie do 3 innych serwisów)
+2. Mindmap
+- widoki
+- funkcjonalości
+- panel administracyjny
+- integracje
+...
+
+3. Diagram procesów (co najmniej jednego)
+
+? System logistyczny
+- zamównienia z produkcji
+- stan magazynu
+
+? Galeria zdjęć
+
+? Sklep online (nietypowa branża)
+
+? Jakaś apka mobilna?
+
+? Serwis ogłoszeniowy dla miast/gmin
